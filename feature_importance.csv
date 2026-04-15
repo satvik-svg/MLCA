@@ -1,0 +1,9 @@
+feature,importance
+num__science_marks,0.2980498499643607
+num__math_marks,0.2937058281851248
+num__english_marks,0.2901985676821254
+num__study_time_hours,0.07907342864196018
+cat__interest_STEM,0.011993855910546448
+cat__interest_Language,0.010448083223779417
+cat__interest_Commerce,0.00902979218208935
+cat__interest_Arts,0.007500594210013783
